@@ -1,5 +1,5 @@
 // CHAT GPT
-const colorSequence = ['dark-modeW', 'dark-modeR', 'dark-modeG', 'dark-modeB'];
+const colorSequence = ['dark-modeW', 'dark-modeR', 'dark-modeG', 'dark-modeB', 'dark-modeP', 'dark-modeY', 'dark-modeT', 'dark-modeO'];
 let currentIndex = 0;
 
 function changeColor(colorClass) {
